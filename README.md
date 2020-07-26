@@ -4,7 +4,7 @@ It is a simple application. I made it to follow the jobs where to I applied.
 
 ![](ReadmeImage/Jobs.png) 
 
-The user can set the name of the employer, the position where he/she appleid, and the date of application.
+The user can set the name of the employer, the position where he/she applied, and the date of application.
 
 ![](ReadmeImage/Jobs2.png) 
 
